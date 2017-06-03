@@ -23,6 +23,13 @@ Ponoko
 ------
 I used Ponoko to have the case cut and used 3mm acrylic. I included the .eps file here, because when I initially sent in the .svg file, they had an issue with sizing (due to SVG export issues with Adobe Illustrator), so I had to export as .eps for them.
 
-Preview Image
+Case Images
 -------------
+
+### SVG file
 ![img](preview.png)
+
+### Assembled case
+![img](http://imgur.com/pN2aeFF.jpg)
+
+![img](http://i.imgur.com/zFAaCGB.jpg)
