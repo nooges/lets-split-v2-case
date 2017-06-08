@@ -21,7 +21,7 @@ This case was designed to use M2 screws and standoffs. The holes in the middle l
 
 Ponoko
 ------
-I used Ponoko to have the case cut and used 3mm acrylic. I included the .eps file here, because when I initially sent in the .svg file, they had an issue with sizing (due to SVG export issues with Adobe Illustrator), so I had to export as .eps for them.
+I used Ponoko to have the case cut and used a P2 sized 3mm acrylic sheet. I included the .eps file here, because when I initially sent in the .svg file, they had an issue with sizing (due to SVG export issues with Adobe Illustrator), so I had to export as .eps for them. The kerf of the files was not set when designed (i.e. kerf = 0.0mm). I'll adjust the design files soon and will set a kerf of 0.15mm for use with Ponoko.
 
 Case Images
 -------------
