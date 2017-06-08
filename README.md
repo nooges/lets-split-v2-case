@@ -36,4 +36,4 @@ Case Images
 
 License
 -------
-These case files are release under the MIT License.
+These case files are released under the MIT License.
