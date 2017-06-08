@@ -33,3 +33,7 @@ Case Images
 ![img](http://imgur.com/pN2aeFF.jpg)
 
 ![img](http://i.imgur.com/zFAaCGB.jpg)
+
+License
+-------
+These case files are release under the MIT License.
