@@ -37,3 +37,7 @@ Case Images
 License
 -------
 These case files are released under the MIT License.
+
+Contact Info
+------------
+I also go by bakingpy on Reddit and the MechKeys Discord server and can be reached through either.
