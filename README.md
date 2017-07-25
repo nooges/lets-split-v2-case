@@ -1,7 +1,7 @@
 Let's Split V2 Case
 ===================
 
-Here's my design files for the Let's Split V2. It's a sandwich-style case with cutouts at the back to accomodate the USB jack and the TRRS jack.
+Here's my design files for the Let's Split V2. It's a sandwich-style case with cutouts at the back to accommodate the USB jack and the TRRS jack.
 
 The design file has 4 top and bottom pieces and 8 middle layer pieces. This is only good for 1 whole case for 2 halves, and 1 case that has no middle layers (you'd need to use standoffs).
 
